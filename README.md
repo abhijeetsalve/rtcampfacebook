@@ -30,11 +30,12 @@ Album Slideshow
 
  Backup albums to Google Drive
 
- =	Provide the user with an option to move albums to a Google Drive.
- 	=The Google Drive will contain a master folder whose name will be of the format facebook__albums where username will be the Facebook username of the user.
- 	=The user’s Facebook albums will be backed up in this master folder. Photos from each album will go inside their respective folders. Folder names will be the same as the Facebook album names.
- 	=To improve the user experience, include the three following buttons:
- 	“Move” button- This button will appear under each album on your website. When clicked, the corresponding album only will be moved to Google Drive
- 	“Move Selected”- This button will work along with a checkbox system. The user can select a few albums via checkboxes and click on this button. Only the selected albums will be moved to Google Drive
- 	“Move All”- This button will immediately move all user albums to Google Drive within their respective folders.
- 	Make sure that the user is asked to connect to their Google account only once, no matter how many times they choose to move data.
+ 
+ •	Provide the user with an option to move albums to a Google Drive.
+o	The Google Drive will contain a master folder whose name will be of the format facebook__albums where username will be the Facebook username of the user.
+o	The user’s Facebook albums will be backed up in this master folder. Photos from each album will go inside their respective folders. Folder names will be the same as the Facebook album names.
+o	To improve the user experience, include the three following buttons:
+o	“Move” button- This button will appear under each album on your website. When clicked, the corresponding album only will be moved to Google Drive
+o	“Move Selected”- This button will work along with a checkbox system. The user can select a few albums via checkboxes and click on this button. Only the selected albums will be moved to Google Drive
+o	“Move All”- This button will immediately move all user albums to Google Drive within their respective folders.
+o	Make sure that the user is asked to connect to their Google account only once, no matter how many times they choose to move data.
